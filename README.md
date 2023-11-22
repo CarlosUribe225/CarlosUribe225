@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Andrés Uribe</h1>
 <h3 align="center">I'm a Fullstack developer student, at Factoría F5 Gijón.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
